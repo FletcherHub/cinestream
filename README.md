@@ -13,4 +13,4 @@ CineVerse é um projeto de site de filmes desenvolvido como parte do curso da Al
 - **Frontend:** HTML5, CSS3, SCSS, JavaScript.
 - **Backend:** N/A.
 - **APIs Externas:** N/A.
-- **Frameworks/Bibliotecas:** N/A.
+- **Frameworks/Bibliotecas:** SCSS.
